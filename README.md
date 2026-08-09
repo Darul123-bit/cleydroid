@@ -1,4 +1,4 @@
-# cleydroid
+# Zenux
 
 > A free, open-source mobile operating system powered by Linux
 
@@ -6,7 +6,7 @@
 
 ## About
 
-**[Cleydroid]** is an independent operating system built for mobile devices. Designed to offer a lightweight, smooth,and privacy-focused alternative to mainstream mobile plateforms, it is built entirely on open technologies.
+**[Zenux]** is an independent operating system built for mobile devices. Designed to offer a lightweight, smooth,and privacy-focused alternative to mainstream mobile plateforms, it is built entirely on open technologies.
 
 ### Key Features
 * **Linux Kernel:** Driven by a Linux kernel tailored for mobile hardware.
